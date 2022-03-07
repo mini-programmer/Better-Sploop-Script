@@ -1,1 +1,1 @@
-## Click [Here](https://bit.ly/better-sploop-script-link) to download!
+## Click [Here](https://pastebin.com/raw/TQ1ziyG7) to copy!
