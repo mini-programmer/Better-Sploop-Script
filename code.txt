@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Better Sploop Script
 // @namespace    http://tampermonkey.net/
-// @version      See_in_game
+// @version      See-in-game
 // @description  Does some things, see them in the game!
 // @author       Mini Scripter
 // @match        http*://sploop.io/*
